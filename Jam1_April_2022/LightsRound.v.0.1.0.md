@@ -5,6 +5,16 @@ You have the board 9x9 of LEDs. Your task is to light or dim all of them. You ca
 link to project: https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/releases/
 
 ![Screenshot](https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/LightsRound.png)
+![Screenshot](https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/img/LightsRound_Menu.png)
+![Screenshot](https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/img/LightsRound_BoardSize.png)
+![Screenshot](https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/img/LightsRound_2x2.png)
+![Screenshot](https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/img/LightsRound_3x3.png)
+![Screenshot](https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/img/LightsRound_4x4.png)
+![Screenshot](https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/img/LightsRound_5x5.png)
+![Screenshot](https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/img/LightsRound_6x6.png)
+![Screenshot](https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/img/LightsRound_7x7.png)
+![Screenshot](https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/img/LightsRound_8x8.png)
+![Screenshot](https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/img/LightsRound_9x9.png)
 
 # Team
 
